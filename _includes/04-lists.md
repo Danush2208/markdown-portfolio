@@ -1,4 +1,4 @@
-Fruits
-Vegetables
-Rice
-Pulses
+-Fruits
+-Vegetables
+-Rice
+-Pulses
