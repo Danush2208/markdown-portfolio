@@ -1,0 +1,4 @@
+* Fruits
+* Vegetables
+* Rice
+* Pulses
